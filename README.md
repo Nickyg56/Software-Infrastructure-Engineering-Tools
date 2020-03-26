@@ -16,7 +16,7 @@ Useful videos, articles and links relating to DevOps
 
 [Helm Docs](https://helm.sh/docs/)
 
-[Packer Docs](https://packer.io/docs/index.html]
+[Packer Docs](https://packer.io/docs/index.html)
 
 ---------------------------------------------
 ## Videos
