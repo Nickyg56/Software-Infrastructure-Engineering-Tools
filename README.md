@@ -39,7 +39,7 @@ Useful videos, articles and links relating to DevOps
 
 **Terraform**
 
-[Terraform tutorial](https://www.youtube.com/watch?v=1JAx2npuprk)
+[Terraform tutorial](https://www.youtube.com/watch?v=1JAx2npuprk&list=PLtK75qxsQaMIHQOaDd0Zl_jOuu1m3vcWO)
 
 ---------------------------------------------------
 ## Articles
