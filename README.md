@@ -19,7 +19,7 @@ Useful videos, articles and links relating to DevOps
 ---------------------------------------------
 ## Videos
 
-**Conainerization:**
+**Containerization:**
 
 [containerization explained](https://www.youtube.com/watch?v=0qotVMX-J5s)
 
