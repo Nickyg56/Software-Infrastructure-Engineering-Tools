@@ -16,6 +16,8 @@ Useful videos, articles and links relating to DevOps
 
 [Helm Docs](https://helm.sh/docs/)
 
+[Packer Docs](https://packer.io/docs/index.html]
+
 ---------------------------------------------
 ## Videos
 
@@ -41,6 +43,8 @@ Useful videos, articles and links relating to DevOps
 [scalable Jenkins on top of a Kubernetes Cluster](https://dzone.com/articles/how-to-setup-scalable-jenkins-on-top-of-a-kubernet)
 
 [intro to kubernetes](https://www.digitalocean.com/community/tutorials/an-introduction-to-kubernetes)
+
+[intro to packer](https://packer.io/intro/why.html)
 
 
 
