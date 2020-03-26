@@ -37,6 +37,10 @@ Useful videos, articles and links relating to DevOps
 
 [kubernetes deployment](https://www.youtube.com/watch?v=Sulw5ndbE88)
 
+**Terraform**
+
+[Terraform tutorial](https://www.youtube.com/watch?v=1JAx2npuprk)
+
 ---------------------------------------------------
 ## Articles
 
