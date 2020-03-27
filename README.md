@@ -44,11 +44,27 @@ Useful videos, articles and links relating to DevOps
 ---------------------------------------------------
 ## Articles
 
+**Jenkins**
+
 [scalable Jenkins on top of a Kubernetes Cluster](https://dzone.com/articles/how-to-setup-scalable-jenkins-on-top-of-a-kubernet)
+
+**Kubernetes**
 
 [intro to kubernetes](https://www.digitalocean.com/community/tutorials/an-introduction-to-kubernetes)
 
+[kubernetes "all in one"](https://medium.com/@smijar/installing-kubernetes-all-in-one-on-a-low-resource-vps-1c89dd5f0096)
+
+**Packer**
+
 [intro to packer](https://packer.io/intro/why.html)
+
+---------------------------------------------------
+
+## Images
+
+**Kubernetes Cluster**
+
+<img alt="kubernetes cluster" src="https://miro.medium.com/max/1400/1*tbR4NHWj-7L04lm3hEgdsg.png" />
 
 
 
