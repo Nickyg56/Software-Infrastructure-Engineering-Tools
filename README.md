@@ -54,6 +54,8 @@ Useful videos, articles and links relating to DevOps
 
 [kubernetes "all in one"](https://medium.com/@smijar/installing-kubernetes-all-in-one-on-a-low-resource-vps-1c89dd5f0096)
 
+[deploying k8s with terraform and RKE](https://medium.com/@brotandgames/deploy-a-kubernetes-cluster-using-terraform-and-rke-provider-68112463e49d)
+
 **Packer**
 
 [intro to packer](https://packer.io/intro/why.html)
