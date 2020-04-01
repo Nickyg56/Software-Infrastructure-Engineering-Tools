@@ -18,6 +18,8 @@ Useful videos, articles and links relating to DevOps
 
 [Packer Docs](https://packer.io/docs/index.html)
 
+[Rancher Docs](https://rancher.com/docs/)
+
 ---------------------------------------------
 ## Videos
 
