@@ -60,6 +60,8 @@ Useful videos, articles and links relating to DevOps
 
 [deploying k8s with terraform and RKE](https://medium.com/@brotandgames/deploy-a-kubernetes-cluster-using-terraform-and-rke-provider-68112463e49d)
 
+[install software on k8's cluster with helm](https://www.digitalocean.com/community/tutorials/how-to-install-software-on-kubernetes-clusters-with-the-helm-package-manager)
+
 **Packer**
 
 [intro to packer](https://packer.io/intro/why.html)
