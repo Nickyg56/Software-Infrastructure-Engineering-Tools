@@ -62,6 +62,8 @@ Useful videos, articles and links relating to DevOps
 
 [install software on k8's cluster with helm](https://www.digitalocean.com/community/tutorials/how-to-install-software-on-kubernetes-clusters-with-the-helm-package-manager)
 
+[dynamic provisioning and storage classes in k8s](https://kubernetes.io/blog/2017/03/dynamic-provisioning-and-storage-classes-kubernetes/)
+
 **Packer**
 
 [intro to packer](https://packer.io/intro/why.html)
