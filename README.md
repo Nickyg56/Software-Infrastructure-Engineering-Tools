@@ -37,6 +37,8 @@ Useful videos, articles and links relating to DevOps
 
 [kubernetes deployment](https://www.youtube.com/watch?v=Sulw5ndbE88)
 
+[helm kubernetes tutorial](https://matthewpalmer.net/kubernetes-app-developer/articles/helm-kubernetes-video-tutorial.html)
+
 **Terraform**
 
 [Terraform tutorial](https://www.youtube.com/watch?v=1JAx2npuprk&list=PLtK75qxsQaMIHQOaDd0Zl_jOuu1m3vcWO)
