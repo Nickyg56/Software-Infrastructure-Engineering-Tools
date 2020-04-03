@@ -72,6 +72,10 @@ Useful videos, articles, links and repositories relating to DevOps
 
 [mongoddb terraform provider](https://github.com/mongodb-labs/terraform-provider-mongodb)
 
+**VI**
+
+[Editing text files with VI](https://www.howtogeek.com/102468/a-beginners-guide-to-editing-text-files-with-vi/)
+
 
 ---------------------------------------------------
 ## Code
