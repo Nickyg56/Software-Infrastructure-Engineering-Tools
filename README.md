@@ -1,6 +1,6 @@
 # DevOps
 
-Useful videos, articles and links relating to DevOps
+Useful videos, articles, links and repositories relating to DevOps
 
 ## Docs
 
