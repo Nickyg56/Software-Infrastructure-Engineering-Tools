@@ -68,6 +68,8 @@ Useful videos, articles, links and repositories relating to DevOps
 
 [intro to packer](https://packer.io/intro/why.html)
 
+[using packer and terraform to set up jenkins slave/master architecture](https://medium.com/velotio-perspectives/using-packer-and-terraform-to-setup-jenkins-master-slave-architecture-7bcc4b014874)
+
 **Terraform**
 
 [mongoddb terraform provider](https://github.com/mongodb-labs/terraform-provider-mongodb)
