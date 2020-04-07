@@ -84,7 +84,7 @@ Useful videos, articles, links and repositories relating to DevOps
 
 [terraform rancher provider](https://github.com/rancher/terraform-provider-rke)
 
-[Stephane cheatsheet](https://gist.github.com/StephaneP/ba846308d4e78e1bdcd4d1fbe6c5fdb3)
+[Stephane git cheatsheet](https://gist.github.com/StephaneP/ba846308d4e78e1bdcd4d1fbe6c5fdb3)
 
 ---------------------------------------------------
 
