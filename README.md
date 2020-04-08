@@ -86,6 +86,8 @@ Useful videos, articles, links and repositories relating to DevOps
 
 [Stephane git cheatsheet](https://gist.github.com/StephaneP/ba846308d4e78e1bdcd4d1fbe6c5fdb3)
 
+[DevOps reference material](https://github.com/devops-asset/devops-reference-material)
+
 ---------------------------------------------------
 
 ## Images
