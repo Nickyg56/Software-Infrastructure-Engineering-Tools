@@ -98,7 +98,7 @@ Useful videos, articles, links and repositories relating to DevOps
 
 **Pod Diagram**
 
-<img alt="pod diagram" sec="https://d33wubrfki0l68.cloudfront.net/aecab1f649bc640ebef1f05581bfcc91a48038c4/728d6/images/docs/pod.svg" />
+<img alt="pod diagram" src="https://d33wubrfki0l68.cloudfront.net/aecab1f649bc640ebef1f05581bfcc91a48038c4/728d6/images/docs/pod.svg" />
 
 
 
