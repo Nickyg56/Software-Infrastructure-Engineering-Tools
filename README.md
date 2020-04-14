@@ -94,6 +94,13 @@ Useful videos, articles, links and repositories relating to DevOps
 [DevOps reference material](https://github.com/devops-asset/devops-reference-material)
 
 ---------------------------------------------------
+## Udemy Courses
+
+[Infrastructure Automation with Terraform](https://www.udemy.com/course/learn-devops-infrastructure-automation-with-terraform/)
+
+[The Complete Kubernetes Course](https://www.udemy.com/course/learn-devops-the-complete-kubernetes-course/)
+
+---------------------------------------------------
 
 ## Images
 
