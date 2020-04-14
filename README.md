@@ -7,7 +7,7 @@ Jump to section:
 <a href="#Videos">Videos</a>
 <a href="#Articles">Articles</a>
 <a href="#Code">Code</a>
-<a href="#Udemy Courses">Udemy Courses</a>
+<a href="#Udemy Courses">Udemy-Courses</a>
 <a href="#Images">Images</a>
 
 ## Docs
