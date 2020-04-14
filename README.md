@@ -3,12 +3,12 @@
 Useful videos, articles, links and repositories relating to DevOps
 
 Jump to section:
-<a href="#Docs">Docs</a>
-<a href="#Videos">Videos</a>
-<a href="#Articles">Articles</a>
-<a href="#Code">Code</a>
-<a href="#Udemy-Courses">Udemy Courses</a>
-<a href="#Images">Images</a>
+<a href="#Docs">Docs</a>, 
+<a href="#Videos">Videos</a>, 
+<a href="#Articles">Articles</a>, 
+<a href="#Code">Code</a>, 
+<a href="#Udemy-Courses">Udemy Courses</a>, 
+<a href="#Images">Images</a>, 
 
 ## Docs
 
