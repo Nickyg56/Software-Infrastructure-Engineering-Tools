@@ -45,6 +45,8 @@ Useful videos, articles, links and repositories relating to DevOps
 
 [Terraform tutorial](https://www.youtube.com/watch?v=1JAx2npuprk&list=PLtK75qxsQaMIHQOaDd0Zl_jOuu1m3vcWO)
 
+[kubernetes terraform provider](https://www.youtube.com/watch?v=-UtqHkrvFro)
+
 ---------------------------------------------------
 ## Articles
 
@@ -74,7 +76,6 @@ Useful videos, articles, links and repositories relating to DevOps
 
 [mongoddb terraform provider](https://github.com/mongodb-labs/terraform-provider-mongodb)
 
-[kubernetes terraform provider](https://www.youtube.com/watch?v=-UtqHkrvFro)
 
 **VI**
 
