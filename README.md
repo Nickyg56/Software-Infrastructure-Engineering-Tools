@@ -60,6 +60,10 @@ Jump to section:
 ---------------------------------------------------
 ## Articles
 
+**Google Cloud Professional DevOps Engineer Exam**
+
+[top ten things to know](https://medium.com/faun/top-ten-things-to-know-for-google-cloud-professional-devops-engineer-beta-exam-63e72266a016)
+
 **Jenkins**
 
 [scalable Jenkins on top of a Kubernetes Cluster](https://dzone.com/articles/how-to-setup-scalable-jenkins-on-top-of-a-kubernet)
