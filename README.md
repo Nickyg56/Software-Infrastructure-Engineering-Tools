@@ -97,6 +97,12 @@ Jump to section:
 
 [Editing text files with VI](https://www.howtogeek.com/102468/a-beginners-guide-to-editing-text-files-with-vi/)
 
+**Linux**
+
+[command line tips](https://www.techspot.com//guides/844-linux-command-line-part-ii/)
+
+[writing shell scripts](http://linuxcommand.org/lc3_writing_shell_scripts.php)
+
 
 ---------------------------------------------------
 ## Code
