@@ -64,6 +64,8 @@ Jump to section:
 
 [top ten things to know](https://medium.com/faun/top-ten-things-to-know-for-google-cloud-professional-devops-engineer-beta-exam-63e72266a016)
 
+[repo of test resources](https://github.com/sathishvj/awesome-gcp-certifications/blob/master/professional-cloud-devops-engineer.md)
+
 **Jenkins**
 
 [scalable Jenkins on top of a Kubernetes Cluster](https://dzone.com/articles/how-to-setup-scalable-jenkins-on-top-of-a-kubernet)
