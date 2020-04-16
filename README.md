@@ -30,6 +30,8 @@ Jump to section:
 
 [GCP IAM Docs](https://cloud.google.com/iam/docs/)
 
+[Managing GCP with Terraform tutorial](https://cloud.google.com/community/tutorials/managing-gcp-projects-with-terraform)
+
 ---------------------------------------------
 ## Videos
 
