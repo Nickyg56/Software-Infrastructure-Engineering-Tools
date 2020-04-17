@@ -59,6 +59,8 @@ Jump to section:
 
 [kubernetes terraform provider](https://www.youtube.com/watch?v=-UtqHkrvFro)
 
+[terraform with GCP (basic setup)](https://www.youtube.com/watch?v=O05KkBlAuFg)
+
 ---------------------------------------------------
 ## Articles
 
