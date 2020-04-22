@@ -30,6 +30,8 @@ Jump to section:
 
 [GCP IAM Docs](https://cloud.google.com/iam/docs/)
 
+[Couchbase Docs](https://docs.couchbase.com/home/index.html)
+
 [Managing GCP with Terraform tutorial](https://cloud.google.com/community/tutorials/managing-gcp-projects-with-terraform)
 
 ---------------------------------------------
