@@ -66,6 +66,8 @@ Jump to section:
 
 **Google Cloud Professional DevOps Engineer Exam**
 
+[Professional Cloud DevOps Engineer Info](https://cloud.google.com/certification/cloud-devops-engineer)
+
 [top ten things to know](https://medium.com/faun/top-ten-things-to-know-for-google-cloud-professional-devops-engineer-beta-exam-63e72266a016)
 
 [repo of test resources](https://github.com/sathishvj/awesome-gcp-certifications/blob/master/professional-cloud-devops-engineer.md)
