@@ -66,7 +66,7 @@ Jump to section:
 ---------------------------------------------------
 ## Articles
 
-**Google Cloud Professional DevOps Engineer Exam**
+**Google Cloud Professional DevOps Engineering Exam**
 
 [Professional Cloud DevOps Engineer Info](https://cloud.google.com/certification/cloud-devops-engineer)
 
