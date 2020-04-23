@@ -111,6 +111,10 @@ Jump to section:
 
 [writing shell scripts](http://linuxcommand.org/lc3_writing_shell_scripts.php)
 
+**Concepts**
+
+[Artifact Repository](https://jfrog.com/knowledge-base/what-is-an-artifact-repository/)
+
 
 ---------------------------------------------------
 ## Code
