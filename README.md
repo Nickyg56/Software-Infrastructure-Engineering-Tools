@@ -115,6 +115,7 @@ Jump to section:
 
 [Artifact Repository](https://jfrog.com/knowledge-base/what-is-an-artifact-repository/)
 
+[Ports and Sockets Explained](http://www.steves-internet-guide.com/tcpip-ports-sockets/)
 
 ---------------------------------------------------
 ## Code
