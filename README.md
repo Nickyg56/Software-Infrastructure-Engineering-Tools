@@ -41,6 +41,8 @@ Jump to section:
 
 [containerization explained](https://www.youtube.com/watch?v=0qotVMX-J5s)
 
+[IPv4](https://www.youtube.com/watch?v=ddM9AcreVqY)
+
 **Kubernetes:**
 
 [what is kubernetes?](https://www.youtube.com/watch?v=LVpbsTIzkkE)
