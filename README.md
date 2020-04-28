@@ -12,6 +12,8 @@ Jump to section:
 
 ## Docs
 
+[Apache Docs](https://httpd.apache.org/docs/)
+
 [Terraform Docs](https://www.terraform.io/docs/index.html)
 
 [Kubernetes Docs](https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/)
@@ -31,8 +33,6 @@ Jump to section:
 [GCP IAM Docs](https://cloud.google.com/iam/docs/)
 
 [Couchbase Docs](https://docs.couchbase.com/home/index.html)
-
-[Managing GCP with Terraform tutorial](https://cloud.google.com/community/tutorials/managing-gcp-projects-with-terraform)
 
 ---------------------------------------------
 ## Videos
@@ -102,6 +102,7 @@ Jump to section:
 
 [mongoddb terraform provider](https://github.com/mongodb-labs/terraform-provider-mongodb)
 
+[Managing GCP with Terraform tutorial](https://cloud.google.com/community/tutorials/managing-gcp-projects-with-terraform)
 
 **VI**
 
