@@ -80,6 +80,8 @@ Jump to section:
 
 [scalable Jenkins on top of a Kubernetes Cluster](https://dzone.com/articles/how-to-setup-scalable-jenkins-on-top-of-a-kubernet)
 
+[accessing and dumping Jenkins credentials](https://codurance.com/2019/05/30/accessing-and-dumping-jenkins-credentials/)
+
 **Kubernetes**
 
 [intro to kubernetes](https://www.digitalocean.com/community/tutorials/an-introduction-to-kubernetes)
