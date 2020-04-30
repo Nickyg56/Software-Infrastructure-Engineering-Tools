@@ -116,6 +116,8 @@ Jump to section:
 
 [writing shell scripts](http://linuxcommand.org/lc3_writing_shell_scripts.php)
 
+[bash functions](https://linuxize.com/post/bash-functions/)
+
 **Concepts**
 
 [Artifact Repository](https://jfrog.com/knowledge-base/what-is-an-artifact-repository/)
