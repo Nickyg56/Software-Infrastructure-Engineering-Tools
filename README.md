@@ -69,9 +69,9 @@ Jump to section:
 
 [Jenkins tutorial (Why continuous integration?)](https://www.youtube.com/watch?v=p7-U1_E_j3w)
 
-[50 Jenkins interview questions)[https://www.youtube.com/watch?v=2AVp9kie6s8]
+[50 Jenkins interview questions](https://www.youtube.com/watch?v=2AVp9kie6s8)
 
-[Jenkins pipelin tutorial](https://www.youtube.com/watch?v=_fmX31VFbL8)
+[Jenkins pipeline tutorial](https://www.youtube.com/watch?v=_fmX31VFbL8)
 
 ---------------------------------------------------
 ## Articles
