@@ -65,6 +65,10 @@ Jump to section:
 
 [terraform with GCP (basic setup)](https://www.youtube.com/watch?v=O05KkBlAuFg)
 
+**Jenkins**
+
+[Jenkins tutorial (Why continuous integration?)](https://www.youtube.com/watch?v=p7-U1_E_j3w)
+
 ---------------------------------------------------
 ## Articles
 
