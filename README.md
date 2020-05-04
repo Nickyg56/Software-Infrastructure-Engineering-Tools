@@ -148,9 +148,9 @@ Jump to section:
 
 [The Complete Kubernetes Course](https://www.udemy.com/course/learn-devops-the-complete-kubernetes-course/)
 
-[Master the Linux Command Line](https://auditdeploy.udemy.com/course/linux-mastery/)
+[Master the Linux Command Line](https://www.udemy.com/course/linux-mastery/)
 
-[GCP Fundamentals](https://auditdeploy.udemy.com/course/google-cloud-platform-gcp-fundamentals-for-beginners/)
+[GCP Fundamentals](https://www.udemy.com/course/google-cloud-platform-gcp-fundamentals-for-beginners/)
 
 ---------------------------------------------------
 
