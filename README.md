@@ -126,6 +126,8 @@ Jump to section:
 
 [bash functions](https://linuxize.com/post/bash-functions/)
 
+[How to use chmod command](https://www.howtogeek.com/437958/how-to-use-the-chmod-command-on-linux/)
+
 **Concepts**
 
 [Artifact Repository](https://jfrog.com/knowledge-base/what-is-an-artifact-repository/)
