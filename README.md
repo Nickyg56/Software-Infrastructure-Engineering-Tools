@@ -84,6 +84,10 @@ Jump to section:
 
 [repo of test resources](https://github.com/sathishvj/awesome-gcp-certifications/blob/master/professional-cloud-devops-engineer.md)
 
+**HAproxy**
+
+[Load balancing with HAproxy](https://serversforhackers.com/c/load-balancing-with-haproxy)
+
 **Jenkins**
 
 [scalable Jenkins on top of a Kubernetes Cluster](https://dzone.com/articles/how-to-setup-scalable-jenkins-on-top-of-a-kubernet)
