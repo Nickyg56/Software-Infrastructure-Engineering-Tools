@@ -43,6 +43,10 @@ Jump to section:
 
 [IPv4](https://www.youtube.com/watch?v=ddM9AcreVqY)
 
+**GCP**
+
+[google load balancing](https://www.youtube.com/watch?v=HUHBq_VGgFg)
+
 **Kubernetes:**
 
 [what is kubernetes?](https://www.youtube.com/watch?v=LVpbsTIzkkE)
