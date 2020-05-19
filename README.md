@@ -142,6 +142,8 @@ Jump to section:
 
 [Ports and Sockets Explained](http://www.steves-internet-guide.com/tcpip-ports-sockets/)
 
+[OpenSSL cheatsheet](https://www.thesslstore.com/blog/openssl-commands-cheat-sheet/)
+
 ---------------------------------------------------
 ## Code
 
