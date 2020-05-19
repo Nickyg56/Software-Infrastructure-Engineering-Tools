@@ -34,6 +34,8 @@ Jump to section:
 
 [Couchbase Docs](https://docs.couchbase.com/home/index.html)
 
+[OpenResty](https://openresty.org/en/)
+
 ---------------------------------------------
 ## Videos
 
