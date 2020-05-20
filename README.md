@@ -104,6 +104,8 @@ Jump to section:
 
 [intro to kubernetes](https://www.digitalocean.com/community/tutorials/an-introduction-to-kubernetes)
 
+[kubernetes comic](https://cloud.google.com/kubernetes-engine/kubernetes-comic)
+
 [kubernetes "all in one"](https://medium.com/@smijar/installing-kubernetes-all-in-one-on-a-low-resource-vps-1c89dd5f0096)
 
 [deploying k8s with terraform and RKE](https://medium.com/@brotandgames/deploy-a-kubernetes-cluster-using-terraform-and-rke-provider-68112463e49d)
