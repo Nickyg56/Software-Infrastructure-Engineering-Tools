@@ -128,6 +128,8 @@ Jump to section:
 
 [Managing GCP with Terraform tutorial](https://cloud.google.com/community/tutorials/managing-gcp-projects-with-terraform)
 
+[Running terraform in automation](https://learn.hashicorp.com/terraform/development/running-terraform-in-automation)
+
 **VI**
 
 [Editing text files with VI](https://www.howtogeek.com/102468/a-beginners-guide-to-editing-text-files-with-vi/)
